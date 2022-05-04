@@ -1,4 +1,4 @@
-Container interface
+PHP 7.0 support for: Container interface
 ==============
 
 This repository holds all interfaces related to [PSR-11 (Container Interface)][psr-url].
